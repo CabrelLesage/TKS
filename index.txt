@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	 <link rel="stylesheet" href="Mon%20site_fichiers/site.css">
+	 <link rel="stylesheet" href="Mon_site_fichiers/site.css">
      <title>Mon site</title>
     </head>
     <body>
@@ -38,7 +38,7 @@
 				<!---/ini awal header_bottom/--->
                 <div id="header_bottom">
 				 <div id="slider">
-				    <img src="Mon%20site_fichiers/drap.jpg" alt="seharusnya ini slider" title="drapeau camerounais">
+				    <img src="Mon_site_fichiers/drap.jpg" alt="seharusnya ini slider" title="drapeau camerounais">
 				 </div>
 				</div>
             </div>
@@ -64,7 +64,7 @@ guérrit et nous devons savoir que nous n'avons pas été crée au hazard;
 			    <div id="content_center">
 			        <div class="cc_news">
 			         <h4>DIEU et le marriage</h4>
-					 <img src="Mon%20site_fichiers/img2.jpg">
+					 <img src="Mon_site_fichiers/img2.jpg">
 			         <p>Le marriage est l'une des premieres volontés de DIEU, car
  il a été établit à la création du monde juste après que DIEU fini de 
 créer l'homme (<b>Génese2v24 </b>) 
@@ -73,14 +73,14 @@ créer l'homme (<b>Génese2v24 </b>)
 			        </div>
 					<div class="cc_news">
 			         <h4>C&amp;N DESIGN</h4>
-					 <img src="Mon%20site_fichiers/img3.jpg">
+					 <img src="Mon_site_fichiers/img3.jpg">
 			         <p>Diriger par de vrais enfants de DIEU <i><b>C&amp;N DESIGN</b></i> est une entreprise situé au <b>Cameroun</b>, dans la ville de <b>Yaoundé</b> au quartier <b>NKOZOA</b>
 					 au lieu dit: <b>Entrée ministre</b>.<br><b><u>Pour plus d'informations</u>:</b> N'hésiter et de resister pas pour nous contacter. <b>Merci!!!</b></p>			 
 					 <a href="#">Voir plus</a>
 			        </div>
 					<div class="cc_news">
 			         <h4>Problèmes De Fête?</h4>
-					 <img src="Mon%20site_fichiers/img4.jpg">
+					 <img src="Mon_site_fichiers/img4.jpg">
 			         <p>Vous voulez faire une fête et vous ne connaissez pas par 
 où commencer? où vous voulez augmenter votre maniere de décorer, 
 cuisiner, vous organiser,etc...
