@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	 <link rel="stylesheet" href="Mon%20site_fichiers/site.css">
+     <title>Mon site</title>
+    </head>
+    <body>
+        <div id="wrapper">
+		 <!---/ini awal header/--->
+            <div id="header">
+			
+			 <!---/ini awal header_top/--->
+                <div id="header_top">
+				 <div id="logo"> 
+				  <h1>Global</h1> 
+				 </div>
+				 <div id="Cari">
+				     <form>
+					  <input name="Cari" placeholder="Rechercher..." type="text">
+					  <input value="Go" type="submit">
+					 </form>
+				 </div>
+				</div>
+				
+				<!---/ini awal header_center/--->
+                <div id="header_center">
+				  <div id="menu_wrapper">
+				     <ul id="menu">
+				      <li><a href="#">Accueil</a></li>
+					  <li><a href="#">Produits</a></li>
+					  <li><a href="#">Profils</a></li>
+					  <li><a href="#">À propos de? </a></li>
+					  <li><a href="#">Contacts</a></li>
+					 </ul>
+				  </div>
+				</div>
+				
+				<!---/ini awal header_bottom/--->
+                <div id="header_bottom">
+				 <div id="slider">
+				    <img src="Mon%20site_fichiers/drap.jpg" alt="seharusnya ini slider" title="drapeau camerounais">
+				 </div>
+				</div>
+            </div>
+			
+			<!---/ini awal content/--->
+            <div id="content">
+			 
+			 <!---/ini awal content_top/--->
+			    <div id="content_top">
+			        <h4>Le vrai succès!</h4>
+			        <p> Le vrai succès c'est reconnaitre Jésus, comme seigneur et
+ sauveur personnelle l'admettre, comme son rédempteur, car il s'est 
+pauvre pour, 
+			        que nous soyons riche par ses meurtissures, nous sommes 
+guérrit et nous devons savoir que nous n'avons pas été crée au hazard;
+			        si nous sommes sur la terre c'est pour accomplir le but ulime
+ de DIEU pour nous donc nous devons nous tourner vers DIEU et comprendre
+ que avec lui nous avons déja triomphé du monde 
+			        comme il a dit dans sa parole dans <b><i>1jean5v5</i></b> : voila donc le vrai succès. </p>
+			   	</div>
+				
+				<!---/ini awal content_center/--->
+			    <div id="content_center">
+			        <div class="cc_news">
+			         <h4>DIEU et le marriage</h4>
+					 <img src="Mon%20site_fichiers/img2.jpg">
+			         <p>Le marriage est l'une des premieres volontés de DIEU, car
+ il a été établit à la création du monde juste après que DIEU fini de 
+créer l'homme (<b>Génese2v24 </b>) 
+					 il mit dans son coeur le désir de se marier, puis Dieu lui même leur bénit (<b>Génese 1v28-30</b>).</p>
+					 <a href="#">Voir plus</a>
+			        </div>
+					<div class="cc_news">
+			         <h4>C&amp;N DESIGN</h4>
+					 <img src="Mon%20site_fichiers/img3.jpg">
+			         <p>Diriger par de vrais enfants de DIEU <i><b>C&amp;N DESIGN</b></i> est une entreprise situé au <b>Cameroun</b>, dans la ville de <b>Yaoundé</b> au quartier <b>NKOZOA</b>
+					 au lieu dit: <b>Entrée ministre</b>.<br><b><u>Pour plus d'informations</u>:</b> N'hésiter et de resister pas pour nous contacter. <b>Merci!!!</b></p>			 
+					 <a href="#">Voir plus</a>
+			        </div>
+					<div class="cc_news">
+			         <h4>Problèmes De Fête?</h4>
+					 <img src="Mon%20site_fichiers/img4.jpg">
+			         <p>Vous voulez faire une fête et vous ne connaissez pas par 
+où commencer? où vous voulez augmenter votre maniere de décorer, 
+cuisiner, vous organiser,etc...
+                     ce n'est plus un problème contacter nous au <b>697 55 41 80</b> ou sur notre site: <font color="blue"><u>www.fête.com</u></font></p>
+					 <a href="#">Voir plus</a>
+			        </div>
+			    </div>
+				
+				<!---/ini awal content_bottom/--->
+			    <div id="content_bottom">
+			        <div class="cb_news">
+					 <h4>Jésus CHRIST seul est Seigneur </h4>
+					 <p>Qu'on ne vous ments pas seul le CHRIST est Seigneur, car grace a
+ lui nous avons la vie, la vie eternelle (une vie qui dure pour 
+toujour); oui, par lui nous sommes appélé:
+                     <b>Enfants de DIEU</b> car nous sommes ses 
+diciples, oui nous sommes des chrétiens et ainsi tout au long de notre 
+vie terrestre nous défendrons la cause de notre royaume
+                     et prechons la bonne nouvelle...</p>
+                     <a href="#">lire plus</a>					 
+				    </div>
+					<div class="cb_news">
+					 <h4>Répendez-vous car le royaume des Cieux est proche </h4>
+					 <p>la fin du monde approche répendons-nous de tous ce que nous avons faits durants notre misérable vie terrestre;
+					 le royaume des cieux est déja là et seul les violents s'en empare(<b>mathieu13</b>); je vous exhorte encore une fois à enlever le vieux manteaux 
+					 pour le laver dans le sang du CHRIST, décidons dès maintenant de suivre Jésus CHRIST,le prince du royaume des cieux...</p>
+                     <a href="#">lire plus</a>					 
+				    </div>
+				</div>
+			</div>
+			
+			<!---/ini awal footer/--->
+            <div id="footer"> 
+			 <p>Réaliser par <font color="pink"><b> DOMFANG SIPEUYOU RUDDY CABREL</b></font> le 11/08/2021 à 17h30 en NKOZOA. <font color="#57b6cc">Copyright</font> ©2021 touts droits réservés</p><hr>cabrel media<p></p>
+			</div>
+		</div>
+	
+   			 </body></html>
